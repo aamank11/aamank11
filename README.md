@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashish Mankala</h1>
 <h3 align="center">I am an aspiring Computer and Data Scientist at the University of Wisconsin-Madison with a focus on Machine Learning and AI.</h3>
 
-- 🌱 I’m currently learning **how to build an IOS App for fitness and Nutritional tracking.**
-
 - 👨‍💻 All of my projects are available at [aashishmankala.com](aashishmankala.com)
 
 - 📫 How to reach me **amankala@wisc.edu | aashishmankala@gmail.com**
